@@ -1,9 +1,9 @@
 # README #
 
-Simple port of RestMQ Sinatra, built with Limonade, PHP micro-framework.
+Simple port of [RestMQ Sinatra](https://github.com/gleicon/restmq/blob/master/ruby/restmq.rb), built with Limonade, PHP micro-framework.
 
 ## Credits ##
 
-  * https://github.com/gleicon/restmq.git
-  * Fabrice Luraine, https://github.com/sofadesign/limonade.git
-  * Daniele Alessandri, https://github.com/nrk/predis.git
+  * Gleicon Moraes, https://github.com/gleicon/restmq
+  * Fabrice Luraine, https://github.com/sofadesign/limonade
+  * Daniele Alessandri, https://github.com/nrk/predis
